@@ -1,10 +1,15 @@
 # 🎵 Swiftie Vault 🩷
 
-A secure file vault inspired by Music Creation, built with 💖 using Python.  
-It encrypts your files with AES-256, verifies them with SHA-256, and stores them on Google Drive — all protected with OTP-based two-factor authentication.
+A secure file vault inspired by Music Creation, built using Python.  
+It encrypts your mp3 files with AES-256, verifies them with SHA-256, and stores them on Google Drive — all protected with OTP-based two-factor authentication.
+
 
 ---
 
+## ✨ Motivation
+- I often imagined how might artists might protect their unreleased music which more often than not gets leaked. While cloud services offer convenience, they often fall short on true data privacy and integrity — especially for individuals who need more than just a password. Hence I started to Build "Swiftie Vault".
+
+---
 ## 🔐 Features
 
 - **User Authentication** with bcrypt
@@ -25,6 +30,22 @@ It encrypts your files with AES-256, verifies them with SHA-256, and stores them
 
 ---
 
+## 💡 Why Swiftie Vault is Unique
+
+Unlike generic cloud storage or traditional file lockers, **Swiftie Vault is designed with high-profile artists in mind** — think Taylor Swift storing unreleased tracks or lyrics securely.
+
+| Feature | Cloud Drives (Google Drive, Dropbox) | Swiftie Vault |
+|--------|------------------|-------------------|
+| End-to-End Encryption | ❌ | ✅ AES-256 |
+| Two-Factor Authentication | ⚠️ Optional | ✅ Email OTP |
+| File Integrity Verification | ❌ | ✅ SHA-256 Hash |
+| Private Vault for Each User | ❌ | ✅ Yes |
+| Local + Cloud Sync | ✅ | ✅ |
+
+
+Swiftie Vault ensures **privacy, integrity, and protection** — all while being technically robust.
+
+---
 ## 🧪 How to Run
 
 ```bash

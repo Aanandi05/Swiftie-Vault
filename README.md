@@ -1,6 +1,6 @@
 # 🎵 Swiftie Vault 🩷
 
-A secure file vault inspired by Taylor Swift, built with 💖 using Python.  
+A secure file vault inspired by Music Creation, built with 💖 using Python.  
 It encrypts your files with AES-256, verifies them with SHA-256, and stores them on Google Drive — all protected with OTP-based two-factor authentication.
 
 ---

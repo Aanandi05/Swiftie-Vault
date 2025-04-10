@@ -18,6 +18,8 @@ It encrypts your mp3 files with AES-256, verifies them with SHA-256, and stores 
 - **Google Drive Upload**
 - **SHA-256 File Integrity Verification**
 - **Forgot Password via OTP**
+- **With an aesthetically pleasing GUI**
+
 
 ---
 

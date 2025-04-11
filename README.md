@@ -21,7 +21,7 @@ That's how **Swiftie Vault** was born — a love letter to secure storage, priva
 - ☁️ **Google Drive Upload**
 - 🧾 **SHA-256 File Integrity Verification**
 - 📩 **Forgot Password via OTP**
-- 🖼️ **Aesthetically Pleasing GUI with File Vault Interface**
+- 🖼️ **Minimalistic yet aesthetically Pleasing GUI with File Vault Interface**
 - 🧠 **Modular Code Structure** (`auth.py`, `user.py`, `encryption.py`, `google_drive.py`, etc.)
 
 ---

@@ -43,7 +43,7 @@ Unlike generic cloud storage or traditional file lockers, **Swiftie Vault is des
 | Feature                        | Cloud Drives (Google Drive, Dropbox) | Swiftie Vault            |
 |-------------------------------|--------------------------------------|--------------------------|
 | End-to-End Encryption         | ❌                                    | ✅ AES-256               |
-| Two-Factor Authentication     | ⚠️ Optional                          | ✅ Email OTP             |
+| Two-Factor Authentication     | ⚠️ Optional                           | ✅ Email OTP             |
 | File Integrity Verification   | ❌                                    | ✅ SHA-256 Hash          |
 | Private Vault for Each User   | ❌                                    | ✅ Yes                   |
 | Local + Cloud Sync            | ✅                                    | ✅ Yes                   |
@@ -52,7 +52,8 @@ Swiftie Vault ensures **privacy, integrity, and protection** — all while being
 
 ---
 
-## 📸 Screenshots
+
+## 📸 Snapshot GUI+Backend
 
 ### 🔐 Login with Email OTP
 ![Login](./screenshots/login.png)
@@ -64,7 +65,7 @@ Swiftie Vault ensures **privacy, integrity, and protection** — all while being
 ![Vault Upload](./screenshots/upload.png)
 
 ### 🔓 View & Decrypt Files
-![Decrypt](./screenshots/view.png)
+![Decrypt](./screenshots/decrypt.png)
 
 
 ---
